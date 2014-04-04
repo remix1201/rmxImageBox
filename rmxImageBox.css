@@ -1,0 +1,4 @@
+.rmxImageBox img,
+.rmxProductBox img{
+	display: none;
+}
